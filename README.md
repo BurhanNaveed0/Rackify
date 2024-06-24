@@ -1,4 +1,4 @@
-## Project Name & Pitch
+## Rackify
 
 #### Example:
 
