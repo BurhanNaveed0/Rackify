@@ -4,11 +4,7 @@ A prototype bike racking system allowing users to pay to access bikes racks dist
 Achieved 3rd place overall at NJIT’s spring 2024 IEEE Hardware Hackathon, winning a $500 cash prize.
 
 ## Project Status
-(only necessary if incomplete)
-
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+Hackathon project complete. Post competition finishing touches in development. Transferring mock HTML mobile app to React Native for demoing on Expo. 
 
 ## Project Screen Shot(s)
 
