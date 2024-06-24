@@ -4,7 +4,11 @@ A prototype bike racking system allowing users to pay to access bikes racks dist
 Achieved 3rd place overall at NJIT’s spring 2024 IEEE Hardware Hackathon, winning a $500 cash prize.
 
 ## Project Status
-Hackathon project complete. Post competition finishing touches in development. Transferring mock HTML mobile app to React Native for demoing on Expo. 
+Hackathon project complete. Post competition finishing touches in development:
+
+- Transferring mock HTML mobile app to React Native for demoing on Expo.
+- Adding user Authentication with Firebase.
+- Handling rack occupation data in Firebase. 
 
 ## Project Screen Shot(s)
 
