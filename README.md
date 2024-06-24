@@ -1,10 +1,7 @@
 ## Rackify
 
-#### Example:
-
-TweetWorld 
-
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+A prototype bike racking system allowing users to pay to access bikes racks distributed across major cities via mobile app or pre-paid card. 
+Achieved 3rd place overall at NJIT’s spring 2024 IEEE Hardware Hackathon, winning a $500 cash prize.
 
 ## Project Status
 (only necessary if incomplete)
