@@ -16,10 +16,11 @@ Hackathon project complete. Post competition finishing touches in development:
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![DSC_7644-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/def80458-15e6-4a25-8e8e-b95c818062e5)
 
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+![IMG_7626](https://github.com/BurhanNaveed0/Rackify/assets/81490717/81264308-35d3-4b13-9a9d-3d455c6e9af8)
 
+![IMG_7625](https://github.com/BurhanNaveed0/Rackify/assets/81490717/3223485b-0667-4e78-8709-bd5f8072dd12)
 
 ## Reflection
 
@@ -31,4 +32,4 @@ The project turned out to be an excellent learning experience for all team membe
 
 Despite completing our project within the alloted timeframe and winning 3rd place, it is safe so that production was not seamless. While indivdual sections of the project were completed on time and efficiently, the combination of sections was not. For one, the RFID scanner, despite working correctly in an isolated environment, was not working when attached to the locking mechanism, indicating that the re-assembly of the scanner electronics was done incorrectly. Secondly, the motor which theoretically should have been able to power the ring gear used to engage the lock, was not doing so properly. Lastly, on the software side of things, the HTTP request sent from the app to the bike rack was not always being recieved due to the NJIT network's inbound request restrictions.
 
-The main element powering the hardware side of the project was the ESP32 Microcontroller. This microcontroller was an extremely important asset to our project as it allowed us to power our electronics with its GPIO capabilities aswell as handle HTTP requests through its onboard WiFi capabilities. On the firmware side of things, the C++ Arduino Framework was used with the PlatformIO IDE in order to allow for quick and easy development for the board and easy access to countless pre-made drivers for parts like the RFID scanner and the stepper motor. 
+The main element powering the hardware side of the project was the ESP32 Microcontroller. This microcontroller was an extremely important asset to our project as it allowed us to power our electronics with its GPIO capabilities aswell as handle HTTP requests through its onboard WiFi capabilities. On the firmware side of things, the C++ Arduino Framework was used with the PlatformIO IDE in order to allow for quick and easy development for the board and easy access to countless pre-made drivers for parts like the RFID scanner and the stepper motor. For the mobile application portion of the project, due to the small amount of time left, a simple HTML mock application was created rather than a full fledged React Native app as it was easy to setup and get running for proof of concept. 
