@@ -14,15 +14,11 @@ Hackathon project complete. Post competition finishing touches in development:
 
 ## Project Screen Shot(s)
 
-#### Example:   
-
 ![DSC_7644-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/def80458-15e6-4a25-8e8e-b95c818062e5)
 
 ![DSC_7452-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/7fe86e3b-9379-43f5-bee7-2b496c41b2ac)
 
 ![IMG_7626](https://github.com/BurhanNaveed0/Rackify/assets/81490717/81264308-35d3-4b13-9a9d-3d455c6e9af8)
-
-![IMG_7625](https://github.com/BurhanNaveed0/Rackify/assets/81490717/3223485b-0667-4e78-8709-bd5f8072dd12)
 
 ## Reflection
 
