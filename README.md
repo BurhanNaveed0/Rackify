@@ -3,7 +3,7 @@
 A prototype bike racking system allowing users to pay to access bikes racks distributed across major cities via mobile app or pre-paid card. 
 Achieved 3rd place overall at NJIT’s spring 2024 IEEE Hardware Hackathon, winning a $500 cash prize.
 
-Team Members: Matthew Levine, Prabhav Sharma, Tanush Tammanagoudar, Raghav Bharath
+Team Members: Burhan Naveed, Matthew Levine, Prabhav Sharma, Tanush Tammanagoudar, Raghav Bharath
 
 ## Project Status
 Hackathon project complete. Post competition finishing touches in development:
