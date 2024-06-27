@@ -12,6 +12,14 @@ Hackathon project complete. Post competition finishing touches in development:
 - Adding user Authentication with Firebase.
 - Handling rack occupation data in Firebase.
 
+## Project Demos 🎥
+
+
+<ul>
+    <li><a href="https://youtube.com/shorts/kciRXnAHQvI?feature=share">RFID Scanner Demo</a></li>
+    <li><a href="https://youtube.com/shorts/CIawxQrrBTk?feature=share">App Demo</a></li>
+  </ul>
+
 ## Project Photos 📸
 
 ![cad](https://github.com/BurhanNaveed0/Rackify/assets/81490717/ec92e03d-b6af-4a6b-8e18-d42a7be41182)
@@ -20,14 +28,13 @@ Hackathon project complete. Post competition finishing touches in development:
 
 ![IMG_7626](https://github.com/BurhanNaveed0/Rackify/assets/81490717/81264308-35d3-4b13-9a9d-3d455c6e9af8)
 
-## Event Highlights 📸
+## Event Highlights 🎉
 
 ![DSC_7644-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/def80458-15e6-4a25-8e8e-b95c818062e5)
 
 ![DSC_7452-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/7fe86e3b-9379-43f5-bee7-2b496c41b2ac)
 
 ## Reflection 📝
-
 
 ### What was the context for this project?
 This was a 24 hour project built during the NJIT IEEE Spring 2024 Hackathon. The aim of the project, going along with the theme of the Hackathon, was to create a working prototype of a system to make life easier in an Urban setting. This had to be acomplished with resources provided by IEEE such as general electronic parts (DC Motors, Stepper Motors, RFID Scanners, Resistors, Transistors, etc.), mircocontrollers (ESP32 and the Arduino), and makerspace tools (3D Printers, Lazer Cutting Machines, etc.)
