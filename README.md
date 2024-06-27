@@ -1,18 +1,18 @@
-## Rackify
+## Rackify 🚲
 
 A prototype bike racking system allowing users to pay to access bikes racks distributed across major cities via mobile app or pre-paid card. 
 Achieved 3rd place overall at NJIT’s spring 2024 IEEE Hardware Hackathon, winning a $500 cash prize.
 
 Team Members: Burhan Naveed, Matthew Levine, Prabhav Sharma, Tanush Tammanagoudar, Raghav Bharath
 
-## Project Status
+## Project Status ✔
 Hackathon project complete. Post competition finishing touches in development:
 
 - Transferring mock HTML mobile app to React Native for demoing on Expo.
 - Adding user Authentication with Firebase.
 - Handling rack occupation data in Firebase. 
 
-## Project Screen Shot(s)
+## Event Highlights 📸
 
 ![DSC_7644-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/def80458-15e6-4a25-8e8e-b95c818062e5)
 
@@ -20,7 +20,7 @@ Hackathon project complete. Post competition finishing touches in development:
 
 ![IMG_7626](https://github.com/BurhanNaveed0/Rackify/assets/81490717/81264308-35d3-4b13-9a9d-3d455c6e9af8)
 
-## Reflection
+## Reflection 📝
 
 This was a 24 hour project built during the NJIT IEEE Spring 2024 Hackathon. The aim of the project, going along with the theme of the Hackathon, was to create a working prototype of a system to make life easier in an Urban setting. This had to be acomplished with resources provided by IEEE such as general electronic parts (DC Motors, Stepper Motors, RFID Scanners, Resistors, Transistors, etc.), mircocontrollers (ESP32 and the Arduino), and makerspace tools (3D Printers, Lazer Cutting Machines, etc.)
 
