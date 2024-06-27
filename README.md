@@ -10,15 +10,21 @@ Hackathon project complete. Post competition finishing touches in development:
 
 - Transferring mock HTML mobile app to React Native for demoing on Expo.
 - Adding user Authentication with Firebase.
-- Handling rack occupation data in Firebase. 
+- Handling rack occupation data in Firebase.
+
+## Project Photos 📸
+
+![cad](https://github.com/BurhanNaveed0/Rackify/assets/81490717/ec92e03d-b6af-4a6b-8e18-d42a7be41182)
+
+![cad2](https://github.com/BurhanNaveed0/Rackify/assets/81490717/c0512520-198d-45a0-8594-70b5868ea8bf)
+
+![IMG_7626](https://github.com/BurhanNaveed0/Rackify/assets/81490717/81264308-35d3-4b13-9a9d-3d455c6e9af8)
 
 ## Event Highlights 📸
 
 ![DSC_7644-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/def80458-15e6-4a25-8e8e-b95c818062e5)
 
 ![DSC_7452-min](https://github.com/BurhanNaveed0/Rackify/assets/81490717/7fe86e3b-9379-43f5-bee7-2b496c41b2ac)
-
-![IMG_7626](https://github.com/BurhanNaveed0/Rackify/assets/81490717/81264308-35d3-4b13-9a9d-3d455c6e9af8)
 
 ## Reflection 📝
 
