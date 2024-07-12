@@ -1,16 +1,29 @@
 ## Rackify 🚲
 
-A prototype bike racking system allowing users to pay to access bikes racks distributed across major cities via mobile app or pre-paid card. 
+A prototype bike racking system allowing users to pay to access bikes racks distributed across major cities via <a href="https://github.com/BurhanNaveed0/RackifyMobileApp">mobile application</a> or pre-paid card. 
 Achieved 3rd place overall at NJIT’s spring 2024 IEEE Hardware Hackathon, winning a $500 cash prize.
 
 Team Members: Burhan Naveed, Matthew Levine, Prabhav Sharma, Tanush Tammanagoudar, Raghav Bharath
 
 ## Project Status ✔
+
+Update 1:
+
 Hackathon project complete. Post competition finishing touches in development:
 
 - Transferring mock HTML mobile app to React Native for demoing on Expo.
-- Adding user Authentication with Firebase.
-- Handling rack occupation data in Firebase.
+- Adding user Authentication with Appwrite.
+- Handling rack occupation data in Appwrite.
+
+Update 2: 
+
+Rackify <a href="https://github.com/BurhanNaveed0/RackifyMobileApp">mobile application</a> complete!
+
+- HTML prototype app ported to mobile app via React Native + Expo
+    - Built dashboard for users to see occupied racks
+    - Developed map interface for users to access bike racks. 
+- User Authentication handlded with Appwrite Auth. feature. 
+- User data + Station data handled with Appwrite database feature. 
 
 ## Project Demos 🎥
 
