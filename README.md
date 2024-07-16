@@ -25,8 +25,6 @@ Rackify <a href="https://github.com/BurhanNaveed0/RackifyMobileApp">mobile appli
 - User Authentication handlded with Appwrite Auth. feature. 
 - User data + Station data handled with Appwrite database feature.
 
-![ezgif-4-0caec5198e](https://github.com/user-attachments/assets/e54cc6ef-ca89-4dbc-9298-380b28313a2f)
-
 ## Project Demos 🎥
 
 
