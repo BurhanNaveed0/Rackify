@@ -25,8 +25,10 @@ Rackify <a href="https://github.com/BurhanNaveed0/RackifyMobileApp">mobile appli
 - User Authentication handlded with Appwrite Auth. feature. 
 - User data + Station data handled with Appwrite database feature.
 
-## Project Demos 🎥
+![authgifsmall](https://github.com/user-attachments/assets/ee739c59-d652-4d95-be83-20c1cd3c5040)
+![mapgifsmall](https://github.com/user-attachments/assets/418bd6be-1b67-4b94-a95e-eda8efaa8638)
 
+## Project Demos 🎥
 
 <ul>
     <li><a href="https://youtube.com/shorts/kciRXnAHQvI?feature=share">RFID Scanner Demo</a></li>
